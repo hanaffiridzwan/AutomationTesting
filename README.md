@@ -4,17 +4,24 @@ The automation of the Amazon and Ebay to get the set of data in the excel
 ## Installation
 using the robot framework with python and selenium 
 -installing python
-
-pip install robotframework
-pip install selenium 
-pip install beautifulsoap4
-pip install pandas
-pip install openpyxl
-
 ```bash
-pip install foobar
+pip install robotframework
 ```
-#command
+```bash
+pip install selenium 
+```
+```bash
+pip install beautifulsoap4
+```
+```bash
+pip install pandas
+```
+```bash
+pip install openpyxl
+```
+
+
+## Command
 robot .
 
 ## Usage
