@@ -3,7 +3,7 @@ The automation of the Amazon and Ebay to get the set of data in the excel
 
 ## Installation
 using the robot framework with python and selenium 
-installing python
+
 
 ```bash
 pip install robotframework
